@@ -105,7 +105,7 @@ const ServiceRequestForm = () => {
         pauseOnHover
       />
       
-      <h1 className="text-2xl font-bold text-blue-600 mb-6">Learning Support Request</h1>
+      <h1 className="text-2xl font-bold text-blue-600 mb-6">Service Request Form</h1>
       
       {/* Progress indicator */}
       <div className="flex justify-between mb-8">
